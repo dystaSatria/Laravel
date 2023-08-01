@@ -10,7 +10,7 @@
 #### Next Step 
 
 ```terminal
-composer create-project --prefer-dist laravel/laravel:^10.0 splade-tutorial
+composer create-project --prefer-dist laravel/laravel:^10.0 your-project
 
 ```
 
