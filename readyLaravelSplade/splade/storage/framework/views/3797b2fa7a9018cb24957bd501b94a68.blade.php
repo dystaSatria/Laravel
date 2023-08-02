@@ -1,0 +1,1 @@
+<x-splade-component is="confirm" /><x-splade-component is="toast-wrapper" />
