@@ -54,3 +54,17 @@ Route::get('/', function () {
  */
 
 ```
+
+#### Composer json
+
+* Add to github
+
+```
+git init
+
+```
+
+```
+git add .
+
+```
