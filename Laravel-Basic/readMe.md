@@ -6,3 +6,7 @@
 ```
 create-project laravel/laravel laravel-basic
 ```
+* start for visual studio code
+```
+code .
+```
