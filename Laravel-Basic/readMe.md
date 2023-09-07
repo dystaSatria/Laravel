@@ -14,6 +14,13 @@ create-project laravel/laravel laravel-basic
 code .
 ```
 
+* Run it
+
+```
+php artisan serve
+
+```
+
 
 #### Route 
 
