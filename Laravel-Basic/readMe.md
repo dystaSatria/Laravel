@@ -68,6 +68,7 @@ git init
 git add .
 
 ```
+
 * if u have error
 
 ```
@@ -82,6 +83,7 @@ git config --global --add safe.directory F:/laravel-basic
 ```
 
 ```
+
 git commit -m "let's begin"
 
 ```
