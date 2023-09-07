@@ -68,3 +68,16 @@ git init
 git add .
 
 ```
+* if u have error
+
+```
+is owned by:
+        'S-1-5-32-544'
+but the current user is:
+        'S-1-5-21-3852788498-2239215017-4066767366-1001'
+To add an exception for this directory, call:
+
+git config --global --add safe.directory F:/laravel-basic
+
+```
+
